@@ -38,11 +38,12 @@ logoColor=white)
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fgrn7n6qth-cpu&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fgrn7n6qth-cpu&show_icons=true&theme=default&hide_border=true)
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgrn7n6qth-cpu&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgrn7n6qth-cpu&layout=compact&theme=default&hide_border=true)
+
 
 ## Contact
 
