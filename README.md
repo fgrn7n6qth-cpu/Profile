@@ -51,6 +51,7 @@ Java와 Spring Boot를 중심으로 웹 서비스를 개발하고 있으며,
 - 기능 구현뿐 아니라 사용자가 실제로 편하게 사용할 수 있는 화면과 흐름을 고민합니다.
 - 프로젝트를 만들면서 인증, 데이터 저장, 화면 구성, 2D/3D 시각화 같은 기능을 경험했습니다.
 
-## Contact
+## 프로젝트 PPT
 
-- GitHub: [https://github.com/fgrn7n6qth-cpu](https://github.com/fgrn7n6qth-cpu)
+- 팀 프로젝트 - https://drive.google.com/file/d/1FFeBxFJOWBQg2Hym-upC1zL4CbCXQDCF/view?usp=drive_link
+- 개인 프로젝트 -https://drive.google.com/file/d/1hUPdRMpHwEDzeP5tf38gRFKYVkAfNKMp/view?usp=sharing
